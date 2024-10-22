@@ -1,2 +1,2 @@
-# Old-Projects
+# Projects
 Miscellaneous projects and presentations
